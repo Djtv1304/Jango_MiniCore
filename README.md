@@ -2,6 +2,11 @@
 
 This is a Django-based application to manage tasks, employees, and projects. It allows users to create, read, update, and delete tasks, employees, and projects, as well as calculate task delays based on specified start and end dates.
 
+# Video Link
+
+Update del video dado que Loom redujo mi plan y se acabo el free-trial, algunos videos desaparecieron:
+https://www.loom.com/share/75795f061b5e49dfb406293c5f7f8735?sid=f164dbaf-8a5b-4fa6-b805-dc1e1777e423
+
 ## Models
 
 ### Employee
